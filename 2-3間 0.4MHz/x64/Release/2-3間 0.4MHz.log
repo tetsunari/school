@@ -1,0 +1,18 @@
+﻿  Source.cpp
+Source.cpp(106): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  Source.cpp(106): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+Source.cpp(109): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  Source.cpp(109): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+Source.cpp(112): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  Source.cpp(112): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+Source.cpp(115): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  Source.cpp(115): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+Source.cpp(118): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  Source.cpp(118): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+Source.cpp(121): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  Source.cpp(121): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  コード生成しています。
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  2-3間 0.4MHz.vcxproj -> C:\Users\tetsuya\Desktop\研究ファイル\M1\プログラム\2-3間 0.4MHz\x64\Release\2-3間 0.4MHz.exe
+  2-3間 0.4MHz.vcxproj -> C:\Users\tetsuya\Desktop\研究ファイル\M1\プログラム\2-3間 0.4MHz\x64\Release\2-3間 0.4MHz.pdb (Full PDB)

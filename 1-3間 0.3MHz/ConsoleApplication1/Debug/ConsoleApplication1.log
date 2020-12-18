@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\consoleapplication1\source.cpp(106): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\consoleapplication1\source.cpp(106): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\consoleapplication1\source.cpp(109): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\consoleapplication1\source.cpp(109): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\consoleapplication1\source.cpp(112): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\consoleapplication1\source.cpp(112): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\consoleapplication1\source.cpp(115): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\consoleapplication1\source.cpp(115): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\consoleapplication1\source.cpp(118): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\consoleapplication1\source.cpp(118): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\consoleapplication1\source.cpp(121): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\consoleapplication1\source.cpp(121): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  ConsoleApplication1.vcxproj -> C:\Users\tetsuya\Desktop\研究ファイル\M1\プログラム\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\tetsuya\Desktop\研究ファイル\M1\プログラム\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

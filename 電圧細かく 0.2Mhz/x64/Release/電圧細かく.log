@@ -1,0 +1,20 @@
+﻿  Source.cpp
+Source.cpp(106): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  Source.cpp(106): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+Source.cpp(109): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  Source.cpp(109): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+Source.cpp(112): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  Source.cpp(112): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+Source.cpp(115): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  Source.cpp(115): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+Source.cpp(118): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  Source.cpp(118): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+Source.cpp(121): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  Source.cpp(121): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  コード生成しています。
+  10 of 13 functions (76.9%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  電圧細かく.vcxproj -> C:\Users\tetsuya\Desktop\研究ファイル\M1\プログラム\電圧細かく 0.2Mhz\x64\Release\電圧細かく.exe
+  電圧細かく.vcxproj -> C:\Users\tetsuya\Desktop\研究ファイル\M1\プログラム\電圧細かく 0.2Mhz\x64\Release\電圧細かく.pdb (Full PDB)

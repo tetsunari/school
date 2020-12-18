@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\0.3mhz\source.cpp(109): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\0.3mhz\source.cpp(109): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\0.3mhz\source.cpp(112): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\0.3mhz\source.cpp(112): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\0.3mhz\source.cpp(115): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\0.3mhz\source.cpp(115): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\0.3mhz\source.cpp(118): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\0.3mhz\source.cpp(118): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\0.3mhz\source.cpp(121): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\0.3mhz\source.cpp(121): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\0.3mhz\source.cpp(124): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+  c:\users\tetsuya\desktop\研究ファイル\m1\プログラム\0.3mhz\source.cpp(124): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  0.3MHz.vcxproj -> C:\Users\tetsuya\Desktop\研究ファイル\M1\プログラム\0.3MHz\Debug\0.3MHz.exe
+  0.3MHz.vcxproj -> C:\Users\tetsuya\Desktop\研究ファイル\M1\プログラム\0.3MHz\Debug\0.3MHz.pdb (Full PDB)
